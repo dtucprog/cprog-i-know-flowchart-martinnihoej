@@ -1,0 +1,13 @@
+Making an Espresso
+
+Input the desired coffee dose in grams.
+Grind the coffee beans.
+Put the ground coffee into the portafilter.
+Tamp the coffee.
+Insert the portafilter into the espresso machine.
+Start the extraction.
+Check if the extraction time is between 25 and 30 seconds.
+
+If the extraction time is between 25 and 30 seconds, output "Espresso ready".
+
+Otherwise, adjust the grind size and repeat the process.
